@@ -1,0 +1,12 @@
+Android File I/O
+Which object can be used to read a text file?
+Reader
+*Scanner
+File
+Keyboard
+Which class has information about a file or directory?
+*File
+FileSystem
+/dev
+None of the above
+

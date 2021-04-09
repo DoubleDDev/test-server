@@ -1,0 +1,12 @@
+Android Sensors
+Which sensor measures air pressure?
+Hygrometer
+Thermometer
+*Barometer
+Parking meter
+Which class can be used to determine available sensors on a device?
+*SensorManager
+Sensor
+SensorDevices
+None of the above
+

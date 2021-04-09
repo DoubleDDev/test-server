@@ -1,2 +1,2 @@
-Quiz1.txt
-Quiz2.txt
+quiz1.txt
+quiz2.txt
